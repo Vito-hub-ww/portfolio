@@ -55,7 +55,7 @@ export function MobileProjectCards() {
               rel="noopener noreferrer"
               className="text-sm font-semibold text-accent-cyan hover:underline transition-all duration-300"
             >
-              View on GitHub &rarr;
+              Coming Soon
             </a>
           </div>
         </div>

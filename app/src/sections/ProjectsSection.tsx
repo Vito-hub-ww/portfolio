@@ -46,7 +46,7 @@ function ProjectInfoPanel({ activeIndex }: { activeIndex: number }) {
         rel="noopener noreferrer"
         className="text-sm font-semibold text-accent-cyan hover:underline transition-all duration-300 pointer-events-auto inline-block"
       >
-        View on GitHub &rarr;
+        Coming Soon
       </a>
     </div>
   );
